@@ -5,3 +5,36 @@
 <p><a href="https://www.weber.edu/earlycollege/"> Weber State Early College</a></p>
 <img src="images\nuames.png">
 <img src="images\weberstate.jpeg">
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+<h2>My Dogs</h2>
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Breed</th>
+    <th>Color</th>
+  </tr>
+  <tr>
+    <td>Penny</td>
+    <td>Shih-tzu</td>
+    <td>White</td>
+  </tr>
+  <tr>
+    <td>Mei Mei</td>
+    <td>Shih-tzu</td>
+    <td>Black</td>
+  </tr>
+  <tr>
+    <td>Macie</td>
+    <td>Shih-tzu</td>
+    <td>Black and white</td>
+  </tr>
+</table>
+
+</body>
+</html>
