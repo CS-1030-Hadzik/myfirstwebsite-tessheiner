@@ -6,13 +6,14 @@
 <img src="images\nuames.png">
 <img src="images\weberstate.jpeg">
 <html>
-<style>
+<style>    
 table, th, td {
   border:1px solid black;
 }
 </style>
 <body>
 <h2>My Dogs</h2>
+<div style="width:100%">
 <table style="width:100%">
   <tr>
     <th>Name</th>
@@ -35,6 +36,7 @@ table, th, td {
     <td>Black and white</td>
   </tr>
 </table>
+</div>
 
 </body>
 </html>
